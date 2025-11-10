@@ -1,0 +1,9 @@
+{
+	"name": "factoryazureprojectklv",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "da9564ba-6390-4642-a913-3497abfa1508",
+		"tenantId": "10ef054e-2496-431b-ba45-7b47dd646a63"
+	}
+}
