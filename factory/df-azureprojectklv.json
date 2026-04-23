@@ -1,0 +1,15 @@
+{
+	"name": "df-azureprojectklv",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "eaed349d-4b98-40a3-93b4-4e3f493eb66f",
+		"tenantId": "929a0c02-ed2c-4082-8ff3-88e7883dee27"
+	}
+}
